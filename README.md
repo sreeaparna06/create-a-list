@@ -7,13 +7,14 @@
 <li>there children is appeciated by their relavties and friends</li> 
 <li>there children get successful in their life</li> 
 <li>there children buy something for their father</li> and more </ul> 
-<br> MOTHER LOVE.... <br> Mother is not a word it is an emotion <br>She is the godess of the house. <br> <ol> 
+  <h3><br> MOTHER LOVE.... </h3></br> Mother is not a word it is an emotion <br>She is the godess of the house. <br> <ol> 
 <li>She bears a lots of pain to give birth to his child. </li> 
 <li>She is the one who sacrifies eveything for us.</li> 
 <li>She proved herself as a great doctor,teacher,chief and housewife too.</li> 
 <li>Mother is a 1000 watts candel in a dark room</li> 
 </ol>
-<br> Parents are best part of our life.<br> I Love you  <b>Mom and Dad</b> 
+<br> Parents are best part of our life.</br>
+  <br>I Love you Mom and Dad</br> 
 </p> 
 </body> 
 </html>
